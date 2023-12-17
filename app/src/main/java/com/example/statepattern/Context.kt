@@ -1,6 +1,6 @@
 package com.example.statepattern
 
-class Order {
+class Context {
 
     var currentState: OrderState
 
